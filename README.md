@@ -7,10 +7,10 @@ here you can enter either 'polygon' or 'disc'
 If shape entered is polygon  
 #### >Enter no. of vertices:  
 you can enter as many vertices you want. Just be careful of the order in which you enter coordinates from next line.  
-#### >enter coordinates(x,y):
+#### >Enter coordinates(x,y):
 here you need to enter each coordinates of vertices one by one, like 1 1 (enter) 2 2 (enter) 3 1  
 If the shape entered above is disc.  
-#### >enter center coordinates and radius:   
+#### >Enter center coordinates and radius:   
 here you need to enter space separated center coordinates and radius.  
 after that it will ask for queries.  
 Valid Queries are- T,R,S (translation, rotation, scaling)  
